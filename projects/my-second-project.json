@@ -1,0 +1,6 @@
+{
+    "id": "my-second-project",
+    "title": "My Second Project",
+    "description": "This is the description of my second project.",
+    "body": "# Body title\n\nThis is **markdown**. for my second project."
+}

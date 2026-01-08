@@ -1,0 +1,31 @@
+collection: projects
+description: >
+  Jonny Jacksons portfolio projects
+
+storage:
+  path: projects/
+  format: json
+  idField: id
+
+schema:
+  type: object
+  required:
+    - id
+    - title
+
+  properties:
+    id:
+      type: string
+      description: Unique slug identifier
+
+    title:
+      type: string
+
+    description:
+      type: string
+
+    coverImage:
+      type: image
+
+    body:
+      type: markdown
