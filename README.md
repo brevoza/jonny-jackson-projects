@@ -57,3 +57,4 @@ storage:
 ```
 
 We know that each project is stored as a **json** file in the `projects/` directory.
+PR opened by beroza
