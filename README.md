@@ -1,7 +1,23 @@
 This will store my portfolio project data.
 
 Each project has a title, description, coverImage, and body (markdown).
+I TOTALLY EDITED THIS
 
+
+
+DF
+SDF
+DS
+FDS
+F
+DSF
+DS
+FDS
+F
+DS
+FDS
+F
+DS
 
 Brevoza will search this git repo for a `brevoza.config.yml` file, then see what collections are defined. In this case, it's just the `projects` collection, who's config file is located at `projects-config.yml`.
 
